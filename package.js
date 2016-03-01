@@ -1,8 +1,8 @@
 Package.describe({
   name: 'rgoomar:bootstrap-validator',
   summary: 'bootstrapValidator to validate forms and use bootstrap 3 to show errors',
-  version: '0.5.2',
-  git: 'https://github.com/rgoomar/Bootstrap-Validator'
+  version: '0.5.3',
+  git: 'https://github.com/sekmet/Bootstrap-Validator'
 });
 
 Package.onUse(function(api) {
